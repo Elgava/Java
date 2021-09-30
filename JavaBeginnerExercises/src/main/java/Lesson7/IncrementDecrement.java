@@ -5,6 +5,8 @@
  */
 package Lesson7;
 
+import javax.sound.midi.Soundbank;
+
 /**
  *
  * @author elgin
@@ -21,6 +23,10 @@ public class IncrementDecrement {
         
         for(int i = 0; i<=100; i+= 2) {
             System.out.println(i +"\n");
+        }    
+        for(int O = 100; O>=0; O--){
+            System.out.println("");   
         }
+        
     }
 }

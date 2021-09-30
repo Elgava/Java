@@ -38,8 +38,10 @@ public class shirt {
         return color;
     }
 
-    public void setColor(char color) {
-        this.color = color;
+    public void setColor(String color) {
+         if(color.length() > 0){
+            this.color = color.charAt(0);
+        }
     }
 
     public double getPrice() {
