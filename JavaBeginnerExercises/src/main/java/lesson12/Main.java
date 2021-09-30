@@ -9,6 +9,12 @@ package lesson12;
  *
  * @author elgin
  */
-public class Main {
-    
-}
+//public class Main {
+//    public static void main(String[] args) {
+//        Shirt shirt01 = new Shirt(15, "Hawaiian", 'R', 55.9, 'M', "short sleeve");
+//        shirt01.display();
+//        
+//        System.out.println(".........\n");
+//        trouser trouser01 = new trouser
+//    }
+//}

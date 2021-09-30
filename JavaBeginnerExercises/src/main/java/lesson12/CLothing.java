@@ -56,7 +56,10 @@ public class CLothing {
             this.price = price;
         }
         
-    
+    //override
+    public String toString(){
+        return "\n";
+    }
     }
 
     
