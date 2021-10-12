@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Chap_1;
+package chapt2;
 
 /**
  *
  * @author elgin
  */
-public class example1 {
+public class example2 {
     public static void main(String args[]) {  
     int v;  // this declares an int variable 
     double x; // this declares a floating-point variable 

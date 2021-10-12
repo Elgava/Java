@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chap_2;
+package chapt_1;
 
 /**
  *
  * @author elgin
  */
-public class example2 {
+public class example1 {
     // A Java program begins with a call to main(). 
   public static void main(String args[]) { 
     System.out.println("Java drives the Web."); 
