@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12ad28da-e597-4ab3-aa98-9b82e68874e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/speed_converter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speed_converter/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AbstractElectronicDevices/src/main/java/example/Caller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../classwork_javaA/AbstractElectronicDevices/src/main/java/newpackage/Caller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AbstractElectronicDevices/src/main/java/example/ElectronicDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../classwork_javaA/AbstractElectronicDevices/src/main/java/newpackage/ElectronicDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AbstractElectronicDevices/src/main/java/example/PowerState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../classwork_javaA/AbstractElectronicDevices/src/main/java/newpackage/PowerState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AbstractElectronicDevices/src/main/java/example/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../classwork_javaA/AbstractElectronicDevices/src/main/java/newpackage/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/AnalyzerTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/ContainsAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/StringAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/Z01Analyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/Z02Analyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/Z03Analyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/Z04Analyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/Z05Analyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/Z06Analyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/AnonymousInnerClasses/src/com/example/Z07Analyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/src/com/example/CrushedRock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/src/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/src/com/example/RedPaint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/src/com/example/SalesCalcs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/src/com/example/TestSales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/src/com/example/Widget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/src/com/example/WidgetPro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../classwork_javaA/ProductSalesInteface02/src/com/example/WidgetSalesCalcs.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20gNUC0KH4tsFHoMAxUHBIFTrvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12ad28da-e597-4ab3-aa98-9b82e68874e5" name="Changes" comment="" />
+      <created>1636462287043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636462287043</updated>
+    </task>
+    <servers />
+  </component>
+</project>
