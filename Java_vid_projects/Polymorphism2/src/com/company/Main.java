@@ -50,7 +50,7 @@ class Mitsubishi extends Car {
     public String accelerate() {
         return "Mitsubishi -> accelerate()";
     }
-    
+
     @Override
     public String brake() {
         return "Mitsubishi -> brake()";
