@@ -1,4 +1,4 @@
-package com.company;
+package com.example.Game;
 
 import java.util.List;
 
